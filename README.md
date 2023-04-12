@@ -1,7 +1,8 @@
 # MSBA_Team13_TP2_ML2
 MSBA Team 13 Presentation 2 for Machine Learning 2
 
-Twitter Algorithm Scala Code
+Twitter Algorithm Scala Code:
+
 SimCluster: https://github.com/twitter/the-algorithm/blob/main/simclusters-ann/server/src/main/scala/com/twitter/simclustersann/candidate_source/ApproximateCosineSimilarity.scala
 Ranking: https://github.com/twitter/the-algorithm/blob/main/cr-mixer/server/src/main/scala/com/twitter/cr_mixer/similarity_engine/EarlybirdTensorflowBasedSimilarityEngine.scala
 
