@@ -1,4 +1,4 @@
-# MSBA_Team13_TP2_ML2
+# MSBA Team 13 TP2 BUAD5082 ML2
 MSBA Team 13 Presentation 2 for Machine Learning 2
 
 Twitter Algorithm Scala Code:
